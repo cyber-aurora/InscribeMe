@@ -31,6 +31,11 @@ import { DictionaryComponent } from './events/dictionary/dictionary.component';
 import { LoginformComponent } from './events/loginform/loginform.component';
 import { RegisterformComponent } from './events/registerform/registerform.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { ProfilemenuComponent } from './events/profilemenu/profilemenu.component';
+import { FinishedeventsComponent } from './views/finishedevents/finishedevents.component';
+import { FinishedlistComponent } from './events/finishedlist/finishedlist.component';
+import { ActiveEventViewComponent } from './views/activeeventview/activeeventview.component';
+import { ActiveEventsComponent } from './events/activeevents/activeevents.component';
 
 @NgModule({
   declarations: [
@@ -61,7 +66,12 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     UserloggedComponent,
     DictionaryComponent,
     LoginformComponent,
-    RegisterformComponent
+    RegisterformComponent,
+    ProfilemenuComponent,
+    FinishedeventsComponent,
+    FinishedlistComponent,
+    ActiveEventsComponent,
+    ActiveEventViewComponent
   ],
   imports: [
     BrowserModule,
