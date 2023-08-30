@@ -1,0 +1,17 @@
+<app-header></app-header>
+<h2>Eventos Favoritos</h2>
+
+<div class="card mb-3" *ngFor="let event of joinedEvents">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img [src]="event.imageUrl" class="img-fluid rounded-start" alt="Event Image">
+    </div>
+    <div class="col-md-8 d-flex">
+      <div class="card-body">
+        <h5 class="card-title">Title: {{ event.name }}</h5>
+        <p class="card-text">Date: {{ event.date }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>

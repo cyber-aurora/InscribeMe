@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Evento 1",
+    "date": "2022-12-31",
+    "imageUrl": "https://image.lexica.art/full_jpg/74a06ac9-7cde-4052-b45d-d0e24a49430b"
+  },
+  {
+    "name": "Evento 2",
+    "date": "2023-01-15",
+    "imageUrl": "https://image.lexica.art/full_jpg/89af96ec-05d6-46db-8e23-f117c452d8a0"
+  },
+  {
+    "name": "Evento 3",
+    "date": "2023-02-28",
+    "imageUrl": "https://image.lexica.art/full_jpg/a8114339-25de-4294-8d5c-0f38db8d555e"
+  },
+  {
+    "name": "Evento 4",
+    "date": "2023-03-15",
+    "imageUrl": "https://image.lexica.art/full_jpg/ced942bf-5907-4b1d-9832-277722936f34"
+  },
+  {
+    "name": "Evento 5",
+    "date": "2023-04-15",
+    "imageUrl": "https://image.lexica.art/full_jpg/1dd4ccca-e01c-49b1-b1e6-5ea8589e87ab"
+  },
+  {
+    "name": "Evento 6",
+    "date": "2023-05-15",
+    "imageUrl": "https://image.lexica.art/full_jpg/157ae0b2-0dc3-4a4a-9098-744970756235"
+  }
+]
